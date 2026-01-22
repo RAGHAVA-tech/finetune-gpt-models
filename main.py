@@ -2,8 +2,8 @@ import streamlit as st
 from langchain_openai import ChatOpenAI
 
 # Title and description
-st.title("🤖 Satvik-GPT")
-st.markdown("🚀 Generate LinkedIn posts on Generative AI like [Satvik Paramkusham](https://www.linkedin.com/in/satvik-paramkusham/)") 
+st.title("🤖 Raghava-GPT")
+st.markdown("🚀 Generate LinkedIn posts on Generative AI like [raghava](https://www.linkedin.com/in/raghava/)") 
 st.markdown("❤️ Powered by GPT-4o fine-tuned model.")
 
 # Text input for topic
